@@ -3,5 +3,5 @@ void setup() {
 }
 
 void draw() {
-  line(120, 80, 340, 300)
+  line(120, 80, 340, 300);
 }
