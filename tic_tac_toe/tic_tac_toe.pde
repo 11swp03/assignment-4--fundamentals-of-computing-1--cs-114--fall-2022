@@ -1,3 +1,5 @@
+import java.util.Sacnner;
+
 void setup() {
     size(500, 500);
 
@@ -5,6 +7,8 @@ void setup() {
     line(333, 0, 333, 500);
     line(0, 167, 500, 167);
     line(0, 333, 500, 333);
+
+
 }
 
 void draw() {
